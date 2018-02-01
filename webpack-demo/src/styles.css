@@ -1,0 +1,10 @@
+
+pre {
+    background:
+    url('./images/bigjpg.jpg') no-repeat,
+    url('./images/bigpng.png') no-repeat,
+    url('./images/middlejpg.jpg') no-repeat,
+    url('./images/middlepng.png') no-repeat,
+    url('./images/smolljpg.jpg') no-repeat,
+    url('./images/smollpng.png') no-repeat;
+}
